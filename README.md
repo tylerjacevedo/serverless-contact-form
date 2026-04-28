@@ -7,7 +7,7 @@ demonstrates how to connect multiple AWS services into a working cloud-native
 application without managing any servers.
 
 ## Architecture
-![Architecture Diagram](Serverless_Contact_Form)
+![Architecture Diagram](Serverless_Contact_Form.drawio.png)
 
 ## AWS Services Used
 
